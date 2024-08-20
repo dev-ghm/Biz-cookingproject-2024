@@ -9,7 +9,7 @@ uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
     <title>Insert title here</title>
   </head>
   <body>
-    <h1>Hello!! Korea</h1>
+    <h1>Hello!! Koreaa</h1>
     <h2>The time on the Today is ${serverTime}</h2>
   </body>
 </html>

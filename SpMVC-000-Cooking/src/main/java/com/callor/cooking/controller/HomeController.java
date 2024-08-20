@@ -1,4 +1,4 @@
-package com.callor.cooking;
+package com.callor.cooking.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -28,6 +28,7 @@ public class HomeController {
 		String formattedDate = dateFormat.format(date);
 		
 		model.addAttribute("serverTime", formattedDate );
+		
 		
 		return "home";
 	}
